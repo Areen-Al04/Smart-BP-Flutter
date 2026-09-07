@@ -1,0 +1,28 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Platform build outputs
+/android/app/debug
+/android/app/profile
+/android/app/release
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# OS files
+.DS_Store
+Thumbs.db
